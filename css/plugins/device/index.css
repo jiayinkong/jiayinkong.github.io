@@ -531,7 +531,7 @@
       .cate_page .cate-list-container a:visited {
         color: #000; }
       .cate_page .cate-list-container a:hover {
-        color: blue; }
+        color: #ff7844; }
       .cate_page .cate-list-container .cate-list span#img img {
         display: inline-block;
         width: 1rem !important;
@@ -546,6 +546,8 @@
           font-size: .6rem; }
       .cate_page .cate-list-container .cate-list hr {
         margin: 1rem 0; }
+      .cate_page .cate-list-container .cate-list .post-date {
+        color: #43eecb; }
   .tags {
     background-color: #fff;
     margin: .5rem auto; }
